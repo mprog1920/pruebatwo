@@ -14,7 +14,7 @@ public class Main
     public static void main(String[] args){
         System.out.println("Hello world Hola mundo");
 
-        int a = 10;
+        int a = 99;
 		int b = 5;
 		int c = 333;
 
